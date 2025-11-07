@@ -1,8 +1,8 @@
 # Parte 2 – Arquitetura e Escalabilidade
 ## Design Document: Agente Autônomo em Escala de Produção
 
-**Autor:** Patrick  
-**Data:** Novembro 2025  
+**Autor:** Patrick de Noronha
+**Data:** 7 Novembro 2025  
 **Contexto:** Desafio Técnico - Engenheiro de IA (BEES)
 
 ---
