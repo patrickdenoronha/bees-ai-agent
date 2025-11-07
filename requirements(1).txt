@@ -1,0 +1,30 @@
+# Core Dependencies
+langchain==1.0.4
+langchain-core==1.0.3
+langchain-community==0.4.1
+langchain-google-genai==3.0.1
+langgraph==1.0.2
+langgraph-checkpoint==3.0.1
+
+# Vector Store
+faiss-cpu==1.12.0
+
+# Google AI
+google-generativeai==0.8.4
+google-ai-generativelanguage==0.9.0
+
+# API Framework
+fastapi==0.121.0
+uvicorn==0.38.0
+
+# HTTP & Requests
+requests==2.32.5
+httpx==0.28.1
+
+# Utilities
+python-dotenv==1.1.1
+pydantic==2.12.4
+pydantic-settings==2.11.0
+
+# Data Processing
+numpy==2.3.4

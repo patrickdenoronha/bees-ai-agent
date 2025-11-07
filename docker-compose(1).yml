@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  ai-agent:
+    build: .
+    container_name: ai-agent-challenge
+    environment:
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+    ports:
+      - "8001:8001"
+    volumes:
+      # Mount code for development (optional)
+      - ./agent.py:/app/agent.py
+    restart: unless-stopped
+    networks:
+      - ai-network
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+networks:
+  ai-network:
+    driver: bridge
+
+# Para rodar:
+# 1. Configure .env com GOOGLE_API_KEY
+# 2. docker-compose up --build
+# 3. Para parar: docker-compose down

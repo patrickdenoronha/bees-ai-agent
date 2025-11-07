@@ -1,0 +1,9 @@
+# Google Gemini API Key
+# Obtenha em: https://aistudio.google.com/app/apikey
+GOOGLE_API_KEY=your_google_api_key_here
+
+# Opcional: Configurações avançadas
+# LLM_MODEL=gemini-2.0-flash-exp
+# LLM_TEMPERATURE=0
+# API_PORT=8001
+# LOG_LEVEL=INFO
