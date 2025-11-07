@@ -1,7 +1,7 @@
 # Desafio Técnico – Engenheiro de IA (Parte 1)
 ## Agente Autônomo Multi-Ferramentas
 
-> **Autor:** Patrick  
+> **Autor:** Patrick de Noronha
 > **Data:** Novembro 2025  
 > **Framework:** LangChain + LangGraph  
 > **Modelo LLM:** Google Gemini 2.0 Flash
