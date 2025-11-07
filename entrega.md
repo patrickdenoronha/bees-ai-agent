@@ -277,7 +277,7 @@ INICIANDO AGENTE AUTÔNOMO
 - ✅ Código funcional e testado
 - ✅ Pronto para avaliação
 
-**Tempo total:** ~6 horas  
+**Tempo total:** ~3 horas  
 **Arquivos entregues:** 11  
 **Linhas de código:** ~250  
 **Linhas de documentação:** ~600
