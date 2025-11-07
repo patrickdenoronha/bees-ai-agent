@@ -286,8 +286,8 @@ INICIANDO AGENTE AUTÔNOMO
 
 ## 📞 Contato
 
-**Candidato:** Patrick  
-**Localização:** Bélgica  
+**Candidato:** Patrick de Noronha
+**Localização:** Brasil 
 **Especialização:** Cybersecurity & AI Engineering  
 
 ---
