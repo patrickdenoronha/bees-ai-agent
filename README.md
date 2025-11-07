@@ -481,9 +481,9 @@ def test_concurrent_queries():
 
 ## 👤 Autor
 
-**Patrick**  
+**Patrick de Noronha**  
 Cybersecurity Professional & AI Engineer  
-- 🌍 Localização: Bélgica
+- 🌍 Localização: Brasil
 - 💼 Experiência: Bug bounty hunting, Penetration testing, AI/ML
 - 🎯 Foco atual: Autonomous LLM agents, Multi-tool orchestration
 
@@ -504,5 +504,5 @@ Este projeto foi desenvolvido como parte de um desafio técnico para avaliação
 ---
 
 **Status:** ✅ Parte 1 Concluída  
-**Data de entrega:** Novembro 2025  
-**Tempo de desenvolvimento:** ~6 horas
+**Data de entrega:** 7 de Novembro 2025  
+**Tempo de desenvolvimento:** ~3 horas
