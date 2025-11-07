@@ -257,7 +257,7 @@ Se encontrar problemas:
 3. Teste a conexão com a API do Gemini separadamente
 4. Verifique se todas as dependências estão instaladas
 
-**Contato:** Patrick (patrickcode@example.com)
+**Contato:** Patrick (patrick@denoronha.com)
 
 ---
 
