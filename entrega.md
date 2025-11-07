@@ -3,7 +3,7 @@
 ## ✅ Status: CONCLUÍDO
 
 **Data de entrega:** 7 de Novembro de 2025  
-**Tempo de desenvolvimento:** ~4 horas  
+**Tempo de desenvolvimento:** ~3 horas  
 **Candidato:** Patrick de Noronha
 
 ---
